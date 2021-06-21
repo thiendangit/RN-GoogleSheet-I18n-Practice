@@ -15,6 +15,7 @@ target 'RNGoogleSheetI18nPractice' do
   target 'RNGoogleSheetI18nPracticeTests' do
     inherit! :complete
     # Pods for testing
+    pod 'RNFS', :path => '../node_modules/react-native-fs'
   end
 
   # Enables Flipper.
