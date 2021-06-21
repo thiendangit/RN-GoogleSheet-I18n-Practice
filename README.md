@@ -52,13 +52,13 @@ function getSheetData()  {
   npm run android or yarn android
 ```
 
-6.Edit excel file 
+6. Edit excel file 
 
 ```
 https://docs.google.com/spreadsheets/d/1D_xe0FY60htm7NgzvwAs1LNQhCxucqcTNADTOIcfBZg/edit#gid=0
 ```
 
-6. Generate language json file : 
+7. Generate language json file : 
 
 ```
 npm run generateLanguagesJson
